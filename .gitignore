@@ -1,0 +1,13 @@
+# bundle
+.bundle
+vendor/bundle
+
+# environment
+.env
+
+# log
+log
+sample-bot-daemon.pid
+
+# mac
+.DS_Store
